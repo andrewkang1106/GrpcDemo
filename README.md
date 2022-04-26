@@ -7,8 +7,8 @@ This simple implementation was created during my process of learning gRPC as wel
 <h2>To Run</h2>
 Download the project and open the solution to run. <br/>
 Running this project when not on the solution will fail, because it will not have the necessary Nuget packages.
+<br/><br/>
 
-<br/>
 *For those other than me that are viewing this, feel free to ignore some comments I write as those were made to help me understand and remember things. 
 They are not reflective of how I would comment in production.*
 
